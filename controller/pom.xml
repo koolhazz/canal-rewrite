@@ -11,5 +11,13 @@
 
     <artifactId>controller</artifactId>
 
+    <dependencies>
+        <dependency>
+            <artifactId>canal-rewrite</artifactId>
+            <groupId>canal-rewrite</groupId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
 
 </project>

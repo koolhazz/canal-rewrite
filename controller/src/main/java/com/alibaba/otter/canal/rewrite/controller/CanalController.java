@@ -5,14 +5,15 @@ package com.alibaba.otter.canal.rewrite.controller;
  */
 public abstract class CanalController {
 
-    private CanalParser canalParser=null;
-
-    protected CanalController() {
-
-        canalParser = new CanalParser();
-    }
-
-    public LogData getLogData(){};
+//    private CanalParser canalParser=null;
+//
+//
+//    protected CanalController() {
+//
+//        canalParser = new CanalParser();
+//    }
+//
+//    public LogData getLogData(){};
 
 
 
